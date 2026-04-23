@@ -1,1 +1,18 @@
 # README.md
+# My Favorite Movie 
+
+# Spider-Man: No Way Home
+
+*Spider-Man: No Way Home* is my favorite movie because it combines action, emotion, and nostalgia.
+
+# Why I like it:
+- It features multiple Spider-Man characters  
+- The story is exciting and emotional  
+- The visual effects are amazing  
+
+# Favorite Quote:
+"With great power comes great responsibility."
+
+
+# My Rating:
+[5/5]
